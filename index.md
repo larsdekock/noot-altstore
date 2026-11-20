@@ -20,3 +20,5 @@ Noot is er voor iPhone en iPad, voor Windows en als webversie op
 [noot.levicas.com](https://noot.levicas.com). De versie voor iPhone en iPad wordt aangeboden
 via AltStore PAL, voor gebruikers in de Europese Unie. De bron om in AltStore PAL toe te voegen
 volgt hier zodra de eerste versie beschikbaar is.
+
+[Privacyverklaring](privacy/)
