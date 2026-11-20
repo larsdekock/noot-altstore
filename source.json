@@ -1,0 +1,55 @@
+{
+  "name": "Noot",
+  "subtitle": "Notities in werkboeken, secties en pagina's",
+  "description": "De bron van Noot, een licht notitieprogramma met werkboeken, secties en pagina's dat ook zonder internet werkt.",
+  "iconURL": "https://larsdekock.github.io/noot-altstore/icon.png",
+  "website": "https://larsdekock.github.io/noot-altstore/",
+  "tintColor": "#2B3C7E",
+  "featuredApps": ["io.github.larsdekock.noot"],
+  "apps": [
+    {
+      "name": "Noot",
+      "bundleIdentifier": "io.github.larsdekock.noot",
+      "marketplaceID": "6837338332",
+      "developerName": "Lars de Kock",
+      "subtitle": "Notities in werkboeken, secties en pagina's",
+      "localizedDescription": "Noot is een licht notitieprogramma: werkboeken met secties en pagina's, zoals een map met tabbladen.\n\n• Opgemaakte tekst, lijsten, vinkjes en afbeeldingen.\n• Je notities staan op je toestel: lezen, schrijven en zoeken werkt ook zonder internet.\n• Log in en je notities staan op al je toestellen, ook op Windows en in de browser.\n• Beveilig een sectie met een wachtwoord: de pagina's worden op je toestel versleuteld.\n• Deel een werkboek met iemand anders.\n\nGeen reclame, geen tracking. Privacyverklaring: https://larsdekock.github.io/noot-altstore/privacy/",
+      "iconURL": "https://larsdekock.github.io/noot-altstore/icon.png",
+      "tintColor": "#2B3C7E",
+      "category": "utilities",
+      "screenshots": {
+        "iphone": [
+          "https://larsdekock.github.io/noot-altstore/screenshots/iphone-1-pagina.png",
+          "https://larsdekock.github.io/noot-altstore/screenshots/iphone-2-paginas.png",
+          "https://larsdekock.github.io/noot-altstore/screenshots/iphone-3-secties.png",
+          "https://larsdekock.github.io/noot-altstore/screenshots/iphone-4-zoeken.png"
+        ],
+        "ipad": [
+          { "imageURL": "https://larsdekock.github.io/noot-altstore/screenshots/ipad-1-liggend.png", "width": 2752, "height": 2064 },
+          { "imageURL": "https://larsdekock.github.io/noot-altstore/screenshots/ipad-3-pagina.png", "width": 2064, "height": 2752 },
+          { "imageURL": "https://larsdekock.github.io/noot-altstore/screenshots/ipad-4-zoeken.png", "width": 2064, "height": 2752 }
+        ]
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "2",
+          "date": "2026-11-20",
+          "localizedDescription": "Eerste versie via AltStore.",
+          "downloadURL": "https://larsdekock.github.io/noot-altstore/adp/0.1.0-2/manifest.json",
+          "size": 769788,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.applesignin"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Om een foto in een notitie te zetten."
+        }
+      }
+    }
+  ],
+  "news": []
+}
